@@ -13,17 +13,17 @@
     "env": {
         "API_ID": {
             "description": "Enter your api id here.",
-            "value": "",
+            "value": "21580735",
             "required": true
         },
         "API_HASH": {
             "description": "Enter your api hash here.",
-            "value": "",
+            "value": "db8b6d12850015b49ac62aa64912b75b",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token here",
-            "value": "",
+            "value": "7089051681:AAFTiNd-U6IG3ngmuujHleqFw0syLNfUxLM",
             "required": true
         },
         "STRING_SESSION": {
@@ -33,12 +33,12 @@
         },
         "MONGO_DB_URL": {
             "description": "Enter your mongodb url here.",
-            "value": "",
+            "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "LOG_GROUP_ID": {
             "description": "Enter your private log group id here.",
-            "value": "",
+            "value": "-1002118096183",
             "required": true
         }
     },
